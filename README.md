@@ -1,4 +1,5 @@
 # Forever Messages
+![Group 228](https://github.com/user-attachments/assets/d0956c0f-7e3b-4309-8648-b0d380181400)
 
 **Forever Messages** is a blockchain-based platform for creating and sharing messages with the community. This project consists of two main components:
 
